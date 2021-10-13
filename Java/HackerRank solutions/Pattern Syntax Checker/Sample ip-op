@@ -1,0 +1,11 @@
+Sample Input:-
+3
+([A-Z])(.+)
+[AZ[a-z](a-z)
+batcatpat(nat
+
+
+Sample Output:-
+Valid
+Invalid
+Invalid
