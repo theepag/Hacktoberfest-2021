@@ -26,7 +26,7 @@ public class Queue{
 
     public static void add(int data){
         if(isFull()) {
-            System.our=t.println("Overflow");
+            System.out.println("Overflow");
             return;
         }
 
